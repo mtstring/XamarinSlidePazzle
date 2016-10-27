@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.MainPage">
+  <StackLayout Orientation="Vertical" HorizontalOptions="Center">
+    <Label Text="SlidePazzle"/>
+    
+    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+      <Button Clicked="Clicked1" HeightRequest="120" WidthRequest="120" x:Name="button1" FontSize="40"/>
+      <Button Clicked="Clicked2" HeightRequest="120" WidthRequest="120" x:Name="button2" FontSize="40"/>
+      <Button Clicked="Clicked3" HeightRequest="120" WidthRequest="120" x:Name="button3" FontSize="40"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+      <Button Clicked="Clicked4" HeightRequest="120" WidthRequest="120" x:Name="button4" FontSize="40"/>
+      <Button Clicked="Clicked5" HeightRequest="120" WidthRequest="120" x:Name="button5" FontSize="40"/>
+      <Button Clicked="Clicked6" HeightRequest="120" WidthRequest="120" x:Name="button6" FontSize="40"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+      <Button Clicked="Clicked7" HeightRequest="120" WidthRequest="120" x:Name="button7" FontSize="40"/>
+      <Button Clicked="Clicked8" HeightRequest="120" WidthRequest="120" x:Name="button8" FontSize="40"/>
+      <Button Clicked="Clicked9" HeightRequest="120" WidthRequest="120" x:Name="button9" FontSize="40"/>
+    </StackLayout>
+  </StackLayout>
+
+</ContentPage>

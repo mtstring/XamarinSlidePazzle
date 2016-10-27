@@ -1,0 +1,30 @@
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\App3.dll
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\App3.pdb
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\obj\Debug\App3.MainPage.xaml.g.cs
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\obj\Debug\App3.dll
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\obj\Debug\App3.pdb
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\obj\Debug\App3.dll.mdb
+c:\users\y-itoyama\documents\visual studio 2015\Projects\SlidePazzle\App3\App3\bin\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\App3.dll
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\App3.pdb
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Core.dll
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Platform.dll
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Core.xml
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.csprojResolveAssemblyReference.cache
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.MainPage.xaml.g.cs
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.dll
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.pdb
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\obj\Debug\App3.dll.mdb
+C:\work\XamarinSlidePazzle\App3\App3\bin\Debug\App3.dll.mdb
